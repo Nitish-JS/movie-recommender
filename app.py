@@ -1,5 +1,4 @@
 import pickle
-from turtle import distance
 import streamlit as st
 import requests
 
